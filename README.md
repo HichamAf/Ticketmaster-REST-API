@@ -7,7 +7,7 @@
 <p>This is a very simple app that pulls ticketmaster data from a web server and decode that data from JSON format with gson which is a google plugin.
   The data is converted from JSON into our kotlin object and then displayed in some text views.<p>
 
-# Authentication :key:
+## Authentication :key:
 To run a successful API call, you will need to pass your API Key in the apikey query parameter. <strong>Your API Key should automatically appear in all URLs throughout this portal.</strong>
 
 <strong>Example:</strong> https://app.ticketmaster.com/discovery/v2/events.json?apikey=VOHtOfw37AJt3mvrD4VHV80sVG8oecph
@@ -28,9 +28,10 @@ To run a successful API call, you will need to pass your API Key in the apikey q
 https://app.ticketmaster.com/discovery/v2/
 
 
-# App Overview on my Youtube channel :point_down:
+## App Overview on my Youtube channel :point_down:
 
 https://www.youtube.com/watch?v=8Iu8v1yeIV0&ab_channel=HichamAf
+
 <br>
 <br>
 
