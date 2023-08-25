@@ -30,10 +30,7 @@ https://app.ticketmaster.com/discovery/v2/
 
 ## App Overview on my Youtube channel :point_down:
 
-https://www.youtube.com/watch?v=8Iu8v1yeIV0&ab_channel=HichamAf
-
-<br>
-<br>
+https://www.youtube.com/watch?v=8Iu8v1yeIV0&ab_channel=HichamAf <br>
 
 | All Events | Event | More details |
 | ------------- | ------------- | ------------- |
