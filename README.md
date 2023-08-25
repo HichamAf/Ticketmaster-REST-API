@@ -13,7 +13,7 @@ To run a successful API call, you will need to pass your API Key in the apikey q
 <strong>Example:</strong> https://app.ticketmaster.com/discovery/v2/events.json?apikey=VOHtOfw37AJt3mvrD4VHV80sVG8oecph
 <p>Without a valid API Key, you will receive a ${\color{red}401}$ Status Code with the following response:</p>
 
-~~~
+```json
 {
     "fault": {
         "faultstring": "Invalid ApiKey",
@@ -22,7 +22,7 @@ To run a successful API call, you will need to pass your API Key in the apikey q
         }
     }
 }
-~~~
+```
 
 <strong>Root URL: </strong>
 https://app.ticketmaster.com/discovery/v2/
@@ -33,6 +33,11 @@ https://app.ticketmaster.com/discovery/v2/
 https://www.youtube.com/watch?v=8Iu8v1yeIV0&ab_channel=HichamAf
 <br>
 <br>
-<p><img src="image/Screenshot_01.png" alt="drawing" width="200"/> | <img src="image/Screenshot_02.png" alt="drawing" width="200"/> | <img src="image/Screenshot_03.png" alt="drawing" width="200"/></p></br>
-<p><img src="image/Screenshot_04.png" alt="drawing" width="200"/> | <img src="image/Screenshot_05.png" alt="drawing" width="200"/></p>
 
+| All Events | Event | More details |
+| ------------- | ------------- | ------------- |
+| <img src="image/Screenshot_01.png" alt="drawing" width="200"/> | <img src="image/Screenshot_02.png" alt="drawing" width="200"/> | <img src="image/Screenshot_03.png" alt="drawing" width="200"/> |
+
+| All Music Events | More details |
+| ------------- | ------------- |
+| <img src="image/Screenshot_04.png" alt="drawing" width="200"/> | <img src="image/Screenshot_05.png" alt="drawing" width="200"/> |
