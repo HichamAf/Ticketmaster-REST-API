@@ -28,7 +28,7 @@ To run a successful API call, you will need to pass your API Key in the apikey q
 https://app.ticketmaster.com/discovery/v2/
 
 
-## App Overview on my channel Youtube :point_down:
+## Overview on my channel Youtube :point_down:
 
 https://www.youtube.com/watch?v=8Iu8v1yeIV0&ab_channel=HichamAf <br>
 
