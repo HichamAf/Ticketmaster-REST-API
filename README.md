@@ -8,7 +8,7 @@
   The data is converted from JSON into our kotlin object and then displayed in some text views.<p>
 
 ## Authentication :key:
-To run a successful API call, you will need to pass your API Key in the apikey query parameter. <strong>Your API Key should automatically appear in all URLs throughout this portal.</strong>
+To run a successful API call, you will need to pass your API Key in the apikey query parameter. <!-- <strong>Your API Key should automatically appear in all URLs throughout this portal.</strong> -->
 
 <strong>Example:</strong> https://app.ticketmaster.com/discovery/v2/events.json?apikey=VOHtOfw37AJt3mvrD4VHV80sVG8oecph
 <p>Without a valid API Key, you will receive a ${\color{red}401}$ Status Code with the following response:</p>
